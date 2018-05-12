@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45327#Twenty-Six-Choice-Poetical-Extractswith-a-Beautiful-Vignette-Illustrative-of-the-Subject
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
